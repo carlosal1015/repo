@@ -1,0 +1,45 @@
+[submodule "alberta"]
+	path = alberta
+	url = https://aur.archlinux.org/alberta.git
+[submodule "arpackpp"]
+	path = arpackpp
+	url = https://aur.archlinux.org/arpackpp.git
+[submodule "python-colorio"]
+	path = python-colorio
+	url = https://aur.archlinux.org/python-colorio.git
+[submodule "python-cplot"]
+	path = python-cplot
+	url = https://aur.archlinux.org/python-cplot.git
+[submodule "python-meshzoo"]
+	path = python-meshzoo
+	url = https://aur.archlinux.org/python-meshzoo.git
+[submodule "python-ndim"]
+	path = python-ndim
+	url = https://aur.archlinux.org/python-ndim.git
+[submodule "python-npx"]
+	path = python-npx
+	url = https://aur.archlinux.org/python-npx.git
+[submodule "python-orthopy"]
+	path = python-orthopy
+	url = https://aur.archlinux.org/python-orthopy.git
+[submodule "python-pygmsh"]
+	path = python-pygmsh
+	url = https://aur.archlinux.org/python-pygmsh.git
+[submodule "python-requests-cache-git"]
+	path = python-requests-cache-git
+	url = https://aur.archlinux.org/python-requests-cache-git.git
+[submodule "python-scipyx"]
+	path = python-scipyx
+	url = https://aur.archlinux.org/python-scipyx.git
+[submodule "python-triangle"]
+	path = python-triangle
+	url = https://aur.archlinux.org/python-triangle.git
+[submodule "python-url-normalize"]
+	path = python-url-normalize
+	url = https://aur.archlinux.org/python-url-normalize.git
+[submodule "qtcreator-template-dtk"]
+	path = qtcreator-template-dtk
+	url = https://aur.archlinux.org/qtcreator-template-dtk.git
+[submodule "zoltan"]
+	path = zoltan
+	url = https://aur.archlinux.org/zoltan.git

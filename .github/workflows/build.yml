@@ -1,0 +1,61 @@
+name: Build Archlinux Packages
+
+# on:
+# push:
+#  branches:
+#    - master
+# schedule:
+# - cron: "0 1,13 * * 1-6" # build pkgs via 996 rules (；′⌒`), UTC time - 8
+# workflow_dispatch: # allow manual trigger
+
+jobs:
+  Build: # build packages
+    strategy:
+      matrix:
+        pkgs: [
+            alberta,
+            arpackpp,
+            python-colorio,
+            python-cplot,
+            python-meshzoo,
+            python-ndim,
+            python-npx,
+            python-orthopy,
+            python-pygmsh,
+            python-requests-cache-git,
+            python-scipyx,
+            python-triangle,
+            python-url-normalize,
+            qtcreator-template-dtk,
+            zoltan,
+          ] # package list
+      fail-fast: false # allow package build fails
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@master
+        with:
+          submodules: true
+          ssh-key: ${{ secrets.SSH_KEY }}
+          ssh-known-hosts: ${{ secrets.SSH_KNOWN_HOSTS }}
+      # - name: Build pkgs in above list
+      #   uses: zjuyk/pkgbuild-aur@master
+      #   with:
+      #     pkg-name: ${{ matrix.pkgs }}
+      # - name: Upload assets to release
+      #   uses: ncipollo/release-action@v1
+      #   with:
+      #     allowUpdates: true
+      #     tag: "packages"
+      #     artifacts: "./*/*.zst"
+      #     token: ${{ secrets.GITHUB_TOKEN }}
+      # - name: Send notify to telegram
+      #   uses: appleboy/telegram-action@master
+      #   with:
+      #     to: ${{ secrets.TELEGRAM_TO }}
+      #     token: ${{ secrets.TELEGRAM_TOKEN }}
+      #     format: markdown
+      #     message: |
+      #       From ${{ github.repository }} - ${{ github.workflow }}:
+      #           Package ${{ matrix.pkgs }} build success!
+      #       [View it On Github](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})
