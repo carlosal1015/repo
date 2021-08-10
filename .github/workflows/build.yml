@@ -1,12 +1,11 @@
 name: Build Archlinux Packages
 
-# on:
-# push:
-#  branches:
-#    - master
-# schedule:
-# - cron: "0 1,13 * * 1-6" # build pkgs via 996 rules (；′⌒`), UTC time - 8
-# workflow_dispatch: # allow manual trigger
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 1,13 * * 1-6" # build pkgs via 996 rules (；′⌒`), UTC time - 8
+  workflow_dispatch: # allow manual trigger
 
 jobs:
   Build: # build packages
@@ -38,10 +37,10 @@ jobs:
           submodules: true
           ssh-key: ${{ secrets.SSH_KEY }}
           ssh-known-hosts: ${{ secrets.SSH_KNOWN_HOSTS }}
-      # - name: Build pkgs in above list
-      #   uses: zjuyk/pkgbuild-aur@master
-      #   with:
-      #     pkg-name: ${{ matrix.pkgs }}
+      - name: Build pkgs in above list
+        uses: zjuyk/pkgbuild-aur@master
+        with:
+          pkg-name: ${{ matrix.pkgs }}
       # - name: Upload assets to release
       #   uses: ncipollo/release-action@v1
       #   with:
