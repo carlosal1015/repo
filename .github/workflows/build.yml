@@ -3,9 +3,12 @@ name: Build Archlinux Packages
 on:
   push:
     branches: [main]
-  schedule:
-    - cron: "0 1,13 * * 1-6" # build pkgs via 996 rules (；′⌒`), UTC time - 8
+  # schedule:
+  #   - cron: "0 1,13 * * 1-6" # build pkgs via 996 rules (；′⌒`), UTC time - 8
   workflow_dispatch: # allow manual trigger
+
+env:
+  TZ: America/Lima
 
 jobs:
   Build: # build packages

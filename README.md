@@ -27,3 +27,10 @@ Using for reminder ⏰ (and avoid flag out of date):
 - [newreleasesio](https://github.com/newreleasesio)
 - [nvchecker](https://github.com/lilydjwg/nvchecker)
 - [aur-out-of-date](https://github.com/simon04/aur-out-of-date)
+
+Author: Oromion
+
+- https://aur.archlinux.org/packages/?SeB=M&K=carlosal1015&PP=250
+- https://repology.org/maintainer/carlosal1015%40aur
+
+License: The Unlicense
