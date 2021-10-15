@@ -43,3 +43,129 @@
 [submodule "zoltan"]
 	path = zoltan
 	url = https://aur.archlinux.org/zoltan.git
+[submodule "ampi-openmpi"]
+	path = ampi-openmpi
+	url = https://aur.archlinux.org/ampi-openmpi.git
+[submodule "charm++-openmpi"]
+	path = charm++-openmpi
+	url = https://aur.archlinux.org/charm++-openmpi.git
+[submodule "imagine-git"]
+	path = imagine-git
+	url = https://aur.archlinux.org/imagine-git.git
+[submodule "jupyter-gnuplot_kernel"]
+	path = jupyter-gnuplot_kernel
+	url = https://aur.archlinux.org/jupyter-gnuplot_kernel.git
+[submodule "psurface"]
+	path = psurface
+	url = https://aur.archlinux.org/psurface.git
+[submodule "python-aabbtree"]
+	path = python-aabbtree
+	url = https://aur.archlinux.org/python-aabbtree.git
+[submodule "python-accupy"]
+	path = python-accupy
+	url = https://aur.archlinux.org/python-accupy.git
+[submodule "python-adaptmesh"]
+	path = python-adaptmesh
+	url = https://aur.archlinux.org/python-adaptmesh.git
+[submodule "python-colour-science"]
+	path = python-colour-science
+	url = https://aur.archlinux.org/python-colour-science.git
+[submodule "python-genpy"]
+	path = python-genpy
+	url = https://aur.archlinux.org/python-genpy.git
+[submodule "python-gmsh_interop"]
+	path = python-gmsh_interop
+	url = https://aur.archlinux.org/python-gmsh_interop.git
+[submodule "python-krylov"]
+	path = python-krylov
+	url = https://aur.archlinux.org/python-krylov.git
+[submodule "python-krypy"]
+	path = python-krypy
+	url = https://aur.archlinux.org/python-krypy.git
+[submodule "python-lsq-ellipse"]
+	path = python-lsq-ellipse
+	url = https://aur.archlinux.org/python-lsq-ellipse.git
+[submodule "python-meshplex"]
+	path = python-meshplex
+	url = https://aur.archlinux.org/python-meshplex.git
+[submodule "python-meshpy"]
+	path = python-meshpy
+	url = https://aur.archlinux.org/python-meshpy.git
+[submodule "python-microstructpy"]
+	path = python-microstructpy
+	url = https://aur.archlinux.org/python-microstructpy.git
+[submodule "python-multiprocess"]
+	path = python-multiprocess
+	url = https://aur.archlinux.org/python-multiprocess.git
+[submodule "python-mystic"]
+	path = python-mystic
+	url = https://aur.archlinux.org/python-mystic.git
+[submodule "python-optimesh"]
+	path = python-optimesh
+	url = https://aur.archlinux.org/python-optimesh.git
+[submodule "python-pacopy"]
+	path = python-pacopy
+	url = https://aur.archlinux.org/python-pacopy.git
+[submodule "python-pathos"]
+	path = python-pathos
+	url = https://aur.archlinux.org/python-pathos.git
+[submodule "python-pep8"]
+	path = python-pep8
+	url = https://aur.archlinux.org/python-pep8.git
+[submodule "python-perfplot"]
+	path = python-perfplot
+	url = https://aur.archlinux.org/python-perfplot.git
+[submodule "python-ppft"]
+	path = python-ppft
+	url = https://aur.archlinux.org/python-ppft.git
+[submodule "python-pyamg"]
+	path = python-pyamg
+	url = https://aur.archlinux.org/python-pyamg.git
+[submodule "python-pyfma"]
+	path = python-pyfma
+	url = https://aur.archlinux.org/python-pyfma.git
+[submodule "python-pyfvm"]
+	path = python-pyfvm
+	url = https://aur.archlinux.org/python-pyfvm.git
+[submodule "python-pyina"]
+	path = python-pyina
+	url = https://aur.archlinux.org/python-pyina.git
+[submodule "python-pykry"]
+	path = python-pykry
+	url = https://aur.archlinux.org/python-pykry.git
+[submodule "python-pytest-cache"]
+	path = python-pytest-cache
+	url = https://aur.archlinux.org/python-pytest-cache.git
+[submodule "python-pytest-codeblocks"]
+	path = python-pytest-codeblocks
+	url = https://aur.archlinux.org/python-pytest-codeblocks.git
+[submodule "python-pytest-flakes"]
+	path = python-pytest-flakes
+	url = https://aur.archlinux.org/python-pytest-flakes.git
+[submodule "python-pytest-pep8"]
+	path = python-pytest-pep8
+	url = https://aur.archlinux.org/python-pytest-pep8.git
+[submodule "python-pyvoro-mmalahe"]
+	path = python-pyvoro-mmalahe
+	url = https://aur.archlinux.org/python-pyvoro-mmalahe.git
+[submodule "python-quadpy"]
+	path = python-quadpy
+	url = https://aur.archlinux.org/python-quadpy.git
+[submodule "python-scikit-fem"]
+	path = python-scikit-fem
+	url = https://aur.archlinux.org/python-scikit-fem.git
+[submodule "python-termplotlib"]
+	path = python-termplotlib
+	url = https://aur.archlinux.org/python-termplotlib.git
+[submodule "python-vapory"]
+	path = python-vapory
+	url = https://aur.archlinux.org/python-vapory.git
+[submodule "python-viscm"]
+	path = python-viscm
+	url = https://aur.archlinux.org/python-viscm.git
+[submodule "python-yep"]
+	path = python-yep
+	url = https://aur.archlinux.org/python-yep.git
+[submodule "snapgene-viewer"]
+	path = snapgene-viewer
+	url = https://aur.archlinux.org/snapgene-viewer.git
