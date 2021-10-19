@@ -169,3 +169,6 @@
 [submodule "snapgene-viewer"]
 	path = snapgene-viewer
 	url = https://aur.archlinux.org/snapgene-viewer.git
+[submodule "python-requests-cache"]
+	path = python-requests-cache
+	url = https://aur.archlinux.org/python-requests-cache.git

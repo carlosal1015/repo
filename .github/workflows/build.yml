@@ -59,6 +59,7 @@ jobs:
             python-pytest-pep8,
             python-pyvoro-mmalahe,
             python-quadpy,
+            python-requests-cache,
             python-requests-cache-git,
             python-scikit-fem,
             python-scipyx,
