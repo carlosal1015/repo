@@ -172,3 +172,12 @@
 [submodule "python-requests-cache"]
 	path = python-requests-cache
 	url = https://aur.archlinux.org/python-requests-cache.git
+[submodule "exam-terminal"]
+	path = exam-terminal
+	url = https://aur.archlinux.org/exam-terminal.git
+[submodule "python-mplx"]
+	path = python-mplx
+	url = https://aur.archlinux.org/python-mplx.git
+[submodule "python-umap-learn"]
+	path = python-umap-learn
+	url = https://aur.archlinux.org/python-umap-learn.git
