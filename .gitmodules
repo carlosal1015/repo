@@ -181,3 +181,12 @@
 [submodule "python-umap-learn"]
 	path = python-umap-learn
 	url = https://aur.archlinux.org/python-umap-learn.git
+[submodule "sol2"]
+	path = sol2
+	url = https://aur.archlinux.org/sol2.git
+[submodule "python-islpy"]
+	path = python-islpy
+	url = https://aur.archlinux.org/python-islpy.git
+[submodule "python-codepy"]
+	path = python-codepy
+	url = https://aur.archlinux.org/python-codepy.git
