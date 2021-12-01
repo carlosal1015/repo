@@ -18,6 +18,8 @@ jobs:
             alberta,
             ampi-openmpi,
             arpackpp,
+            autogit,
+            blacksheepwall,
             charm++-openmpi,
             exam-terminal,
             imagine-git,
@@ -100,13 +102,13 @@ jobs:
       #     tag: "packages"
       #     artifacts: "./*/*.zst"
       #     token: ${{ secrets.GITHUB_TOKEN }}
-      # - name: Send notify to telegram
-      #   uses: appleboy/telegram-action@master
-      #   with:
-      #     to: ${{ secrets.TELEGRAM_TO }}
-      #     token: ${{ secrets.TELEGRAM_TOKEN }}
-      #     format: markdown
-      #     message: |
-      #       From ${{ github.repository }} - ${{ github.workflow }}:
-      #           Package ${{ matrix.pkgs }} build success!
-      #       [View it On Github](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})
+      - name: Send notify to telegram
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          format: markdown
+          message: |
+            From ${{ github.repository }} - ${{ github.workflow }}:
+                Package ${{ matrix.pkgs }} build success!
+            [View it On Github](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})
