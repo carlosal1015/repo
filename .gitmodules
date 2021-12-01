@@ -196,3 +196,111 @@
 [submodule "blacksheepwall"]
 	path = blacksheepwall
 	url = https://aur.archlinux.org/blacksheepwall.git
+[submodule "broken-link-checker"]
+	path = broken-link-checker
+	url = https://aur.archlinux.org/broken-link-checker.git
+[submodule "cmakew"]
+	path = cmakew
+	url = https://aur.archlinux.org/cmakew.git
+[submodule "dynd"]
+	path = dynd
+	url = https://aur.archlinux.org/dynd.git
+[submodule "facebook-nativefier"]
+	path = facebook-nativefier
+	url = https://aur.archlinux.org/facebook-nativefier.git
+[submodule "hypre"]
+	path = hypre
+	url = https://aur.archlinux.org/hypre.git
+[submodule "oneshot-bin"]
+	path = oneshot-bin
+	url = https://aur.archlinux.org/oneshot-bin.git
+[submodule "otf-asana-math"]
+	path = otf-asana-math
+	url = https://aur.archlinux.org/otf-asana-math.git
+[submodule "otf-gfs-neohellenic-math"]
+	path = otf-gfs-neohellenic-math
+	url = https://aur.archlinux.org/otf-gfs-neohellenic-math.git
+[submodule "otf-textfonts"]
+	path = otf-textfonts
+	url = https://aur.archlinux.org/otf-textfonts.git
+[submodule "pdfquirk"]
+	path = pdfquirk
+	url = https://aur.archlinux.org/pdfquirk.git
+[submodule "pdfquirk-git"]
+	path = pdfquirk-git
+	url = https://aur.archlinux.org/pdfquirk-git.git
+[submodule "picapport"]
+	path = picapport
+	url = https://aur.archlinux.org/picapport.git
+[submodule "picopt"]
+	path = picopt
+	url = https://aur.archlinux.org/picopt.git
+[submodule "python-blaze"]
+	path = python-blaze
+	url = https://aur.archlinux.org/python-blaze.git
+[submodule "python-datashader"]
+	path = python-datashader
+	url = https://aur.archlinux.org/python-datashader.git
+[submodule "python-dynd"]
+	path = python-dynd
+	url = https://aur.archlinux.org/python-dynd.git
+[submodule "python-holoviews"]
+	path = python-holoviews
+	url = https://aur.archlinux.org/python-holoviews.git
+[submodule "python-hvplot"]
+	path = python-hvplot
+	url = https://aur.archlinux.org/python-hvplot.git
+[submodule "python-mwoauth"]
+	path = python-mwoauth
+	url = https://aur.archlinux.org/python-mwoauth.git
+[submodule "python-odo"]
+	path = python-odo
+	url = https://aur.archlinux.org/python-odo.git
+[submodule "python-outdated"]
+	path = python-outdated
+	url = https://aur.archlinux.org/python-outdated.git
+[submodule "python-pandas-summary"]
+	path = python-pandas-summary
+	url = https://aur.archlinux.org/python-pandas-summary.git
+[submodule "python-panel"]
+	path = python-panel
+	url = https://aur.archlinux.org/python-panel.git
+[submodule "python-pydub"]
+	path = python-pydub
+	url = https://aur.archlinux.org/python-pydub.git
+[submodule "python-pytest-base-url"]
+	path = python-pytest-base-url
+	url = https://aur.archlinux.org/python-pytest-base-url.git
+[submodule "python-pytest-selenium"]
+	path = python-pytest-selenium
+	url = https://aur.archlinux.org/python-pytest-selenium.git
+[submodule "python-pytest-variables"]
+	path = python-pytest-variables
+	url = https://aur.archlinux.org/python-pytest-variables.git
+[submodule "python-pywikibot"]
+	path = python-pywikibot
+	url = https://aur.archlinux.org/python-pywikibot.git
+[submodule "python-rasterio"]
+	path = python-rasterio
+	url = https://aur.archlinux.org/python-rasterio.git
+[submodule "python-snuggs"]
+	path = python-snuggs
+	url = https://aur.archlinux.org/python-snuggs.git
+[submodule "python-spatialpandas"]
+	path = python-spatialpandas
+	url = https://aur.archlinux.org/python-spatialpandas.git
+[submodule "python-ufl-git"]
+	path = python-ufl-git
+	url = https://aur.archlinux.org/python-ufl-git.git
+[submodule "selenoid-bin"]
+	path = selenoid-bin
+	url = https://aur.archlinux.org/selenoid-bin.git
+[submodule "soundcloud-syncer"]
+	path = soundcloud-syncer
+	url = https://aur.archlinux.org/soundcloud-syncer.git
+[submodule "superlu_dist"]
+	path = superlu_dist
+	url = https://aur.archlinux.org/superlu_dist.git
+[submodule "tiptop-cli"]
+	path = tiptop-cli
+	url = https://aur.archlinux.org/tiptop-cli.git
