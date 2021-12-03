@@ -299,3 +299,9 @@
 [submodule "tiptop-cli"]
 	path = tiptop-cli
 	url = https://aur.archlinux.org/tiptop-cli.git
+[submodule "python-matplotx"]
+	path = python-matplotx
+	url = https://aur.archlinux.org/python-matplotx.git
+[submodule "python-datatile"]
+	path = python-datatile
+	url = https://aur.archlinux.org/python-datatile.git
