@@ -259,8 +259,6 @@
 [submodule "python-outdated"]
 	path = python-outdated
 	url = https://aur.archlinux.org/python-outdated.git
-[submodule "python-pandas-summary"]
-	path = python-pandas-summary
 	url = https://aur.archlinux.org/python-pandas-summary.git
 [submodule "python-panel"]
 	path = python-panel
