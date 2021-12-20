@@ -305,3 +305,75 @@
 [submodule "python-datatile"]
 	path = python-datatile
 	url = https://aur.archlinux.org/python-datatile.git
+[submodule "air-bin"]
+	path = air-bin
+	url = https://aur.archlinux.org/air-bin.git
+[submodule "allure-commandline"]
+	path = allure-commandline
+	url = https://aur.archlinux.org/allure-commandline.git
+[submodule "altermime"]
+	path = altermime
+	url = https://aur.archlinux.org/altermime.git
+[submodule "ampl-asl"]
+	path = ampl-asl
+	url = https://aur.archlinux.org/ampl-asl.git
+[submodule "ampl-mp"]
+	path = ampl-mp
+	url = https://aur.archlinux.org/ampl-mp.git
+[submodule "halide-bin"]
+	path = halide-bin
+	url = https://aur.archlinux.org/halide-bin.git
+[submodule "otf-cm-unicode"]
+	path = otf-cm-unicode
+	url = https://aur.archlinux.org/otf-cm-unicode.git
+[submodule "paddleocr-git"]
+	path = paddleocr-git
+	url = https://aur.archlinux.org/paddleocr-git.git
+[submodule "paddlepaddle-bin"]
+	path = paddlepaddle-bin
+	url = https://aur.archlinux.org/paddlepaddle-bin.git
+[submodule "python-allure-commons"]
+	path = python-allure-commons
+	url = https://aur.archlinux.org/python-allure-commons.git
+[submodule "python-baidubce"]
+	path = python-baidubce
+	url = https://aur.archlinux.org/python-baidubce.git
+[submodule "python-dmsh"]
+	path = python-dmsh
+	url = https://aur.archlinux.org/python-dmsh.git
+[submodule "python-felupe"]
+	path = python-felupe
+	url = https://aur.archlinux.org/python-felupe.git
+[submodule "python-flake8-builtins"]
+	path = python-flake8-builtins
+	url = https://aur.archlinux.org/python-flake8-builtins.git
+[submodule "python-flake8-class-newline"]
+	path = python-flake8-class-newline
+	url = https://aur.archlinux.org/python-flake8-class-newline.git
+[submodule "python-flake8-import-order"]
+	path = python-flake8-import-order
+	url = https://aur.archlinux.org/python-flake8-import-order.git
+[submodule "python-lxc"]
+	path = python-lxc
+	url = https://aur.archlinux.org/python-lxc.git
+[submodule "python-matadi"]
+	path = python-matadi
+	url = https://aur.archlinux.org/python-matadi.git
+[submodule "python-pyrate-limiter"]
+	path = python-pyrate-limiter
+	url = https://aur.archlinux.org/python-pyrate-limiter.git
+[submodule "python-pytaglib"]
+	path = python-pytaglib
+	url = https://aur.archlinux.org/python-pytaglib.git
+[submodule "seclists"]
+	path = seclists
+	url = https://aur.archlinux.org/seclists.git
+[submodule "texlive-minionpro-git"]
+	path = texlive-minionpro-git
+	url = https://aur.archlinux.org/texlive-minionpro-git.git
+[submodule "visualdl"]
+	path = visualdl
+	url = https://aur.archlinux.org/visualdl.git
+[submodule "vst-video-bin"]
+	path = vst-video-bin
+	url = https://aur.archlinux.org/vst-video-bin.git
