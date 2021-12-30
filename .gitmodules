@@ -202,9 +202,6 @@
 [submodule "dynd"]
 	path = dynd
 	url = https://aur.archlinux.org/dynd.git
-[submodule "facebook-nativefier"]
-	path = facebook-nativefier
-	url = https://aur.archlinux.org/facebook-nativefier.git
 [submodule "hypre"]
 	path = hypre
 	url = https://aur.archlinux.org/hypre.git
