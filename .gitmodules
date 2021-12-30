@@ -130,9 +130,6 @@
 [submodule "python-pyina"]
 	path = python-pyina
 	url = https://aur.archlinux.org/python-pyina.git
-[submodule "python-pykry"]
-	path = python-pykry
-	url = https://aur.archlinux.org/python-pykry.git
 [submodule "python-pytest-cache"]
 	path = python-pytest-cache
 	url = https://aur.archlinux.org/python-pytest-cache.git
@@ -374,3 +371,9 @@
 [submodule "vst-video-bin"]
 	path = vst-video-bin
 	url = https://aur.archlinux.org/vst-video-bin.git
+[submodule "python-elasticsearch-dsl"]
+	path = python-elasticsearch-dsl
+	url = https://aur.archlinux.org/python-elasticsearch-dsl.git
+[submodule "python-py-pde"]
+	path = python-py-pde
+	url = https://aur.archlinux.org/python-py-pde.git
