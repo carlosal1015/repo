@@ -4,24 +4,12 @@
 [submodule "arpackpp"]
 	path = arpackpp
 	url = https://aur.archlinux.org/arpackpp.git
-[submodule "python-colorio"]
-	path = python-colorio
-	url = https://aur.archlinux.org/python-colorio.git
 [submodule "python-cplot"]
 	path = python-cplot
 	url = https://aur.archlinux.org/python-cplot.git
-[submodule "python-meshzoo"]
-	path = python-meshzoo
-	url = https://aur.archlinux.org/python-meshzoo.git
-[submodule "python-ndim"]
-	path = python-ndim
-	url = https://aur.archlinux.org/python-ndim.git
 [submodule "python-npx"]
 	path = python-npx
 	url = https://aur.archlinux.org/python-npx.git
-[submodule "python-orthopy"]
-	path = python-orthopy
-	url = https://aur.archlinux.org/python-orthopy.git
 [submodule "python-pygmsh"]
 	path = python-pygmsh
 	url = https://aur.archlinux.org/python-pygmsh.git
@@ -37,9 +25,6 @@
 [submodule "python-url-normalize"]
 	path = python-url-normalize
 	url = https://aur.archlinux.org/python-url-normalize.git
-[submodule "qtcreator-template-dtk"]
-	path = qtcreator-template-dtk
-	url = https://aur.archlinux.org/qtcreator-template-dtk.git
 [submodule "zoltan"]
 	path = zoltan
 	url = https://aur.archlinux.org/zoltan.git
@@ -76,18 +61,12 @@
 [submodule "python-gmsh_interop"]
 	path = python-gmsh_interop
 	url = https://aur.archlinux.org/python-gmsh_interop.git
-[submodule "python-krylov"]
-	path = python-krylov
-	url = https://aur.archlinux.org/python-krylov.git
 [submodule "python-krypy"]
 	path = python-krypy
 	url = https://aur.archlinux.org/python-krypy.git
 [submodule "python-lsq-ellipse"]
 	path = python-lsq-ellipse
 	url = https://aur.archlinux.org/python-lsq-ellipse.git
-[submodule "python-meshplex"]
-	path = python-meshplex
-	url = https://aur.archlinux.org/python-meshplex.git
 [submodule "python-meshpy"]
 	path = python-meshpy
 	url = https://aur.archlinux.org/python-meshpy.git
@@ -100,12 +79,6 @@
 [submodule "python-mystic"]
 	path = python-mystic
 	url = https://aur.archlinux.org/python-mystic.git
-[submodule "python-optimesh"]
-	path = python-optimesh
-	url = https://aur.archlinux.org/python-optimesh.git
-[submodule "python-pacopy"]
-	path = python-pacopy
-	url = https://aur.archlinux.org/python-pacopy.git
 [submodule "python-pathos"]
 	path = python-pathos
 	url = https://aur.archlinux.org/python-pathos.git
@@ -145,9 +118,6 @@
 [submodule "python-pyvoro-mmalahe"]
 	path = python-pyvoro-mmalahe
 	url = https://aur.archlinux.org/python-pyvoro-mmalahe.git
-[submodule "python-quadpy"]
-	path = python-quadpy
-	url = https://aur.archlinux.org/python-quadpy.git
 [submodule "python-scikit-fem"]
 	path = python-scikit-fem
 	url = https://aur.archlinux.org/python-scikit-fem.git
@@ -184,12 +154,6 @@
 [submodule "python-codepy"]
 	path = python-codepy
 	url = https://aur.archlinux.org/python-codepy.git
-[submodule "autogit"]
-	path = autogit
-	url = https://aur.archlinux.org/autogit.git
-[submodule "blacksheepwall"]
-	path = blacksheepwall
-	url = https://aur.archlinux.org/blacksheepwall.git
 [submodule "broken-link-checker"]
 	path = broken-link-checker
 	url = https://aur.archlinux.org/broken-link-checker.git
@@ -296,9 +260,6 @@
 [submodule "python-matplotx"]
 	path = python-matplotx
 	url = https://aur.archlinux.org/python-matplotx.git
-[submodule "python-datatile"]
-	path = python-datatile
-	url = https://aur.archlinux.org/python-datatile.git
 [submodule "air-bin"]
 	path = air-bin
 	url = https://aur.archlinux.org/air-bin.git
